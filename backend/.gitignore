@@ -1,0 +1,12 @@
+# dependencies
+node_modules/
+
+# production
+build/
+dist/
+
+# dotenv
+.env
+
+# misc
+.DS_Store
